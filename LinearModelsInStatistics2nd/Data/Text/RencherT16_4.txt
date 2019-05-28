@@ -1,0 +1,31 @@
+Relationship County y x
+Related 1 6399 160
+Related 2 2490 90
+Related 3 4489 120
+Related 1 8456 320
+Related 2 5349 154
+Related 3 10026 245
+Related 1 8453 200
+Related 2 5518 160
+Related 3 5659 160
+Related 1 4891 160
+Related 2 10417 234
+Related 3 5475 160
+Related 1 3491 120
+Related 2 4278 120
+Related 3 11382 320
+Not Related 1 6944 160
+Not Related 2 4936 160
+Not Related 3 5731 160
+Not Related 1 6971 160
+Not Related 2 7376 200
+Not Related 3 6787 173
+Not Related 1 4053 120
+Not Related 2 6216 160
+Not Related 3 5814 134
+Not Related 1 8767 280
+Not Related 2 10313 240
+Not Related 3 9607 239
+Not Related 1 6765 160
+Not Related 2 5124 120
+Not Related 3 9817 320

@@ -1,0 +1,15 @@
+Language Gender Frequency
+Samoan Male 24
+Samoan Female 28
+Tongan Male 25
+Tongan Female 39
+Fijian Male 4
+Fijian Female 2
+PIE Male 1
+PIE Female .
+Maori Male 26
+Maori Female 49
+Mandarin Male 15
+Mandarin Female 43
+Cantonese Male .
+Cantonese Female 21
